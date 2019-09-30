@@ -1,6 +1,6 @@
 # SpringBoot-Vue实现增删改查及分页小DEMO
 ## 前言
-主要通过后端 Spring Boot 技术和前端 Vue 技术来简单开发一个登录demo，实现增删改查、分页功能以及了解Springboot搭配vue完成前后端分离项目的开发流程。
+主要通过后端 Spring Boot 技术和前端 Vue 技术来简单开发一个demo，实现增删改查、分页功能以及了解Springboot搭配vue完成前后端分离项目的开发流程。
 ## 开发栈
 ##### 前端
 - 开发工具：WebStorm
